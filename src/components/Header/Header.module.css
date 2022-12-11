@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mainNav{
+    padding: 5px;
+    margin: 5px;
+    margin-left: 30px;
+}
+.mainNav a {
+    color: var(--color-white);
+    padding: 7px 10px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: var(--font-bold);
+    text-shadow: var(--text-shadow-yellow);
+    transition: var(--transition);
+    border: 2px solid transparent;
+    border-radius: var(--border-radius-small);
+}
+.mainNav :global(a.active) {
+    border:1px solid var(--color-violet);
+    color: var(--color-violet);
+    text-shadow: none;
+}

@@ -1,0 +1,5 @@
+.AppWrapper{
+    max-width: var(--width-max);
+    margin: auto;
+    padding: 30px 30px;
+}
