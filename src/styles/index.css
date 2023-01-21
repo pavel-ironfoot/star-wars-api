@@ -32,7 +32,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: var(--font-size-main);
-  background-image: var(--theme-default-bgimage);
+  background-image: var(--theme-default-bgimage); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top left;
@@ -58,4 +58,17 @@ body{
   text-shadow:0 0 2px var(--color-black);
   color: var(--theme-default-header);
   transition: color var(--transition);
+}
+
+body[data-theme='dark']{
+  --color-text:hsl(0,0%,100%);
+  --theme-default-bgimage: url(./../static/darkmoul.jpg);
+  --shadow-button-color: 4px 8px 4px rgb(128, 0, 0);
+  transition-duration: 1s;
+}
+body[data-theme='light']{
+  --color-text:hsl(200,15%,0%);
+  --theme-default-bgimage: url(./../static/yoda.jpg);
+  --shadow-button-color: 4px 8px 4px rgb(0, 128, 0);
+  transition-duration: 1s;
 }
