@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/star-wars-api/static/css/main.d6c8f02c.css",
+    "main.css": "/star-wars-api/static/css/main.b2880fbd.css",
     "main.js": "/star-wars-api/static/js/main.54756d72.js",
     "static/js/787.841ae776.chunk.js": "/star-wars-api/static/js/787.841ae776.chunk.js",
     "static/media/yoda.jpg": "/star-wars-api/static/media/yoda.83816b7af3e7f5f45a5b.jpg",
-    "static/media/starssky.jpg": "/star-wars-api/static/media/starssky.0e0ef5b0380f7dcd051a.jpg",
     "static/media/wp6674193.jpg": "/star-wars-api/static/media/wp6674193.1325f164cc68967066c9.jpg",
     "static/media/darkmoul.jpg": "/star-wars-api/static/media/darkmoul.fd1665cce3a38afe8b21.jpg",
+    "static/media/dart-weider.jpg": "/star-wars-api/static/media/dart-weider.8a332fd17eb7ba82d4d0.jpg",
     "static/media/6d3f8f443.jpg": "/star-wars-api/static/media/6d3f8f443.b75febe03c1c8b770672.jpg",
     "static/media/errorGit.png": "/star-wars-api/static/media/errorGit.1062f5e41ef989b5973a.png",
     "index.html": "/star-wars-api/index.html",
-    "main.d6c8f02c.css.map": "/star-wars-api/static/css/main.d6c8f02c.css.map",
+    "main.b2880fbd.css.map": "/star-wars-api/static/css/main.b2880fbd.css.map",
     "main.54756d72.js.map": "/star-wars-api/static/js/main.54756d72.js.map",
     "787.841ae776.chunk.js.map": "/star-wars-api/static/js/787.841ae776.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6c8f02c.css",
+    "static/css/main.b2880fbd.css",
     "static/js/main.54756d72.js"
   ]
 }
